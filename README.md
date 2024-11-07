@@ -4,33 +4,32 @@
 ![Forks](https://img.shields.io/badge/Forks-0-brightgreen)
 ![Stars](https://img.shields.io/badge/Stars-0-yellow)
 
-![Repo Size](https://img.shields.io/github/repo-size/YourUsername/YourRepo)
+![Repo Size](https://img.shields.io/github/repo-size/AnikethRansalu/YourRepo)
 ![License](https://img.shields.io/badge/License-GPL%203.0-blue)
-![Author](https://img.shields.io/badge/Author-YourName-orange)
+![Author](https://img.shields.io/badge/Author-Aniketh%20Ransalu%20Kapurubandara-orange)
 
-## Hey, I'm [Your Name](https://github.com/YourUsername)
+## Hey, I'm Aniketh Ransalu Kapurubandara
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnikethRansalu&show_icons=true&theme=radical)
 
 ### Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikethRansalu&layout=compact&theme=radical)
 
 ---
 
 ### About Me
 
-- I'm [Your Name]
-- I'm [Your Age] years old
-- I'm interested in [Your Interests, e.g., HTML, CSS, JavaScript, C++, etc.]
-- I'm currently studying [Your Degree/Field of Study] at [Your Institution]
-- I'm also a member of [Any Clubs/Organizations]
-- I'm looking to collaborate on [Your Collaboration Interests]
-- Email me at [Your Email] to contact
-- Find me on [Instagram](https://www.instagram.com/YourInstagram/)
-- Text me on WhatsApp +[Your WhatsApp Number]
+- I'm Aniketh Ransalu Kapurubandara
+- I'm 18 years old
+- I'm interested in Programming, Graphic Designing, Web and Application Development
+- I'm currently studying Undergraduate BSc (Hons) in Computer Security at NSBM University
+- I'm looking to collaborate on exciting projects related to web and application development
+- Email me at [anikethransalu@gmail.com](mailto:anikethransalu@gmail.com) to contact
+- Find me on [Instagram](https://www.instagram.com/aniketh_ransalu/)
+- Connect with me on [Facebook](https://web.facebook.com/anikethransalu)
 
 ---
 
@@ -38,11 +37,8 @@
 
 |                         |                 |
 |-------------------------|-----------------|
-| ![Portfolio](https://img.shields.io/badge/Portfolio-View-informational) | [Your Portfolio Link](YourPortfolioLink) |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational) | [LinkedIn Profile](YourLinkedInProfile) |
-| ![Twitter](https://img.shields.io/badge/Twitter-Profile-informational) | [Your Twitter Link](YourTwitterLink) |
-| ![Instagram](https://img.shields.io/badge/Instagram-Profile-informational) | [Your Instagram Link](YourInstagramLink) |
-| ![Email](https://img.shields.io/badge/Email-Contact-informational) | [Your Email](mailto:YourEmail) |
+| ![Email](https://img.shields.io/badge/Email-Contact-informational) | [anikethransalu@gmail.com](mailto:anikethransalu@gmail.com) |
+| ![Facebook](https://img.shields.io/badge/Facebook-Profile-informational) | [Facebook Profile](https://web.facebook.com/anikethransalu) |
 
 ---
 
@@ -57,4 +53,3 @@
 ![Pull Request](https://img.shields.io/badge/First%20Pull-3pt-brightgreen)
 
 ---
-

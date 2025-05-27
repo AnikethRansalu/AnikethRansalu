@@ -23,7 +23,6 @@
 ### About Me
 
 - I'm Aniketh Ransalu Kapurubandara
-- I'm 18 years old
 - I'm interested in Programming, Graphic Designing, Web and Application Development
 - I'm currently studying Undergraduate BSc (Hons) in Computer Security at NSBM University
 - I'm looking to collaborate on exciting projects related to web and application development
